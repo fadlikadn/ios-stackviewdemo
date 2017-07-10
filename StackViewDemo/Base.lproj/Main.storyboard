@@ -24,7 +24,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="yYv-2k-oqM">
-                                <rect key="frame" x="20" y="40" width="374" height="7601.666666666667"/>
+                                <rect key="frame" x="20" y="40" width="374" height="302"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Tdf-Tb-YGg">
                                         <rect key="frame" x="0.0" y="0.0" width="374" height="68.333333333333329"/>
@@ -63,7 +63,7 @@
                                         </constraints>
                                     </stackView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Need help with your coding problems? We'll find you the right developer who can help you in 15 minutes" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="wNZ-xB-Yvt">
-                                        <rect key="frame" x="0.0" y="241" width="374" height="7360.666666666667"/>
+                                        <rect key="frame" x="0.0" y="241" width="374" height="61"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
